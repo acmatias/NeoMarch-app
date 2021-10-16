@@ -1,9 +1,9 @@
-# NeoMarch-app
-NeoMarch Ecommerce Hub For Business As A Service
-Full Stack Amazon clone coded with 
--ReactJs
-  -Forms (Sign in, Cart, etc.._=)
--NodeJs 
-  -Api
--MongoDB
-  -Database (not uploaded)
+# NeoMarch-app\
+NeoMarch Ecommerce Hub For Business As A Service\
+Full Stack Amazon clone coded with \
+&nbsp;-ReactJs\
+ &nbsp;&nbsp; &nbsp;-Forms (Sign in, Cart, etc.._=)\
+&nbsp;-NodeJs \
+ &nbsp; &nbsp;&nbsp;-Api\
+&nbsp;-MongoDB\
+  &nbsp;&nbsp;&nbsp;-Database (not uploaded)
