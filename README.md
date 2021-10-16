@@ -1,4 +1,4 @@
-# NeoMarch-app\
+# NeoMarch-app
 NeoMarch Ecommerce Hub For Business As A Service\
 Full Stack Amazon clone coded with \
 &nbsp;-ReactJs\
